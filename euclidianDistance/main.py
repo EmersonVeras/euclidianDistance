@@ -16,13 +16,3 @@ def toSweepData(data):
     return sum(vector)
         
 print(toSweepData(data))
-     
-# print(calcDistanceEuclidian(data))
-
-# def euclidianDistance(data):
-    
-#     distanceResult = math.sqrt((data['X'][1] - data['X'][0])**2 + (data['Y'][1] - data['Y'][0])**2)
-#     return distanceResult
-
-
-# print(euclidianDistance(data))
